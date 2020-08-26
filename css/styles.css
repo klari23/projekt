@@ -17,4 +17,9 @@
 
   .dark{
       background-color: black;
+      color: white;
+  }
+
+  .container{
+      margin-top: 10px;
   }
