@@ -2,6 +2,10 @@ a {
     color: white;
 }
 
+h1 {
+  font-size: 40pt;
+}
+
 .box-center {
     color: white;
     font-family: 'Anton';
@@ -12,6 +16,8 @@ a {
     align-items: center;
     justify-content: center;
   }
+
+
 
 .flex-nadpis {
     padding: 5px;
@@ -24,6 +30,11 @@ a {
   .dark{
       background-color: black;
       color: white;
+  }
+
+  .red {
+    background-color: red;
+    color: white;
   }
 
   .container{
@@ -74,5 +85,7 @@ a {
         text-align: center;
     }
 
-
-    
+#carouselExampleControls {
+  margin: 0;
+  padding: 0;
+}
